@@ -1,0 +1,29 @@
+# Environment & Secrets
+.env
+.env.*
+*.pem
+*.key
+*.token
+credentials.json
+
+# Build & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+dist/
+build/
+*.egg-info/
+node_modules/
+
+# OS & Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Diagnostic Logs
+*.log
+logs/
+*.out
