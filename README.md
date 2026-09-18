@@ -16,13 +16,13 @@
 > **Current Work:** Developing AI-automated Systems & Project MeshAid (Decentralized emergency mesh network). <br>
 > **Fun fact:** I can talk about Formula 1 for far longer than necessary :) <br><br>
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** eza --tree --level=2 ~/interests/ <br>
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**Dannyo6 ~ ❯** eza --tree --level=2 ~/interests/ <br>
 > ├── **Domains/** <br>
 > │&nbsp;&nbsp;&nbsp;└── [Web Development](#)  •  [AI/ML](#)  •  [Systems Security](#)  <br>
 > └── **Hobbies/** <br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [Fitness](#)  •  [Photography](#)  •  [Travel](#)  •  [Music](#)  •  [Gardening](#)  •  [Crafts](#)  •  [Gaming](#) <br><br>
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** bat ~/message.txt <br>
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**Dannyo6 ~ ❯** bat ~/message.txt <br>
 > 🔬 I’m particularly interested in the intersection of AI + automation + cybersecurity + scientific research. <br><br>
 
 <img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**Dannyo6 ~ ❯** /contact.txt <br>
