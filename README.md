@@ -12,31 +12,44 @@
 
 <br>
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="14" align="absmiddle"> &nbsp;**Dannyo6 ~ ❯** whoami <br>
-> **User:** Dhanush V <br>
-> **Education:** B.E. Computer Science & Engineering @ RNSIT (9.4 CGPA) <br>
-> **Pronouns:** He/Him <br>
-> **Location:** Bengaluru, Karnataka, India <br>
-> **Bio:** Systems Security and Trustworthy Intelligent Systems. <br><br>
+### <img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="16" align="absmiddle"> `Dannyo6 ~ ❯ whoami`
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="14" align="absmiddle"> &nbsp;**Dannyo6 ~ ❯** bat ~/about.txt <br>
-> **Focus:** Hardening endpoint execution boundaries, low-level telemetry, and practical offensive security (CTFs). <br>
-> **Current Work:** Developing AI-automated Systems & Project MeshAid (Decentralized emergency mesh network). <br>
-> **Fun fact:** I can talk about Formula 1 for far longer than necessary :) <br><br>
+- **User:** **Dhanush V**
+- **Education:** **B.E. Computer Science & Engineering @ RNSIT (9.4 CGPA)**
+- **Pronouns:** He/Him
+- **Location:** Bengaluru, Karnataka, India
+- **Bio:** Systems Security and Trustworthy Intelligent Systems.
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="14" align="absmiddle"> &nbsp;**Dannyo6 ~ ❯** eza --tree --level=2 ~/interests/ <br>
-> ├── **Domains/** <br>
-> │&nbsp;&nbsp;&nbsp;└── [Web Development](#) • [AI/ML](#) • [Systems Security](#) <br>
-> └── **Hobbies/** <br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [Fitness](#) • [Photography](#) • [Travel](#) • [Music](#) • [Gardening](#) • [Crafts](#) • [Gaming](#) <br><br>
+<br>
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="14" align="absmiddle"> &nbsp;**Dannyo6 ~ ❯** bat ~/message.txt <br>
-> 🔬 I'm particularly interested in the intersection of AI + automation + cybersecurity + scientific research. <br><br>
+### <img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="16" align="absmiddle"> `Dannyo6 ~ ❯ bat ~/about.txt`
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="14" align="absmiddle"> &nbsp;**Dannyo6 ~ ❯** bat ~/contact.txt <br>
-> [Email](mailto:dhanushvk611@gmail.com) • [LinkedIn](https://linkedin.com/in/dhanush-v-49b404330) • [GitHub](https://github.com/Dannyo6) <br><br>
+- **Focus:** Hardening endpoint execution boundaries, low-level telemetry, and practical offensive security (CTFs).
+- **Current Work:** Developing **AI-automated systems** & **MeshAid** (Decentralized emergency mesh network).
+- **Fun fact:** I can talk about Formula 1 for far longer than necessary :)
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="14" align="absmiddle"> &nbsp;**Dannyo6 ~ ❯** cat ~/skills.json <br>
+<br>
+
+### <img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="16" align="absmiddle"> `Dannyo6 ~ ❯ eza --tree --level=2 ~/interests/`
+
+- **Domains:** Web Development • AI/ML • Systems Security • Decentralized Networks
+- **Hobbies:** Fitness • Photography • Travel • Music • Gardening • Crafts • Gaming
+
+<br>
+
+### <img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="16" align="absmiddle"> `Dannyo6 ~ ❯ bat ~/message.txt`
+
+- 🔬 I'm particularly interested in the intersection of AI + automation + cybersecurity + scientific research.
+
+<br>
+
+### <img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="16" align="absmiddle"> `Dannyo6 ~ ❯ bat ~/contact.txt`
+
+- [Email](mailto:dhanushvk611@gmail.com) • [LinkedIn](https://linkedin.com/in/dhanush-v-49b404330) • [GitHub](https://github.com/Dannyo6)
+
+<br>
+
+### <img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="16" align="absmiddle"> `Dannyo6 ~ ❯ cat ~/skills.json`
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/> &nbsp;
@@ -56,10 +69,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="36" height="36"/>
 </p>
 
-
-
 <br>
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="13" align="absmiddle"> &nbsp;**Dannyo6 ~ ❯** exit <br><br>
+### <img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="16" align="absmiddle"> `Dannyo6 ~ ❯ exit`
+
+<br>
 
 <h3 align="center">My Repos ⬇️</h3>
