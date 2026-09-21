@@ -44,9 +44,9 @@
 
 ### <img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="16" align="absmiddle"> `Dannyo6 ~ ❯ exit`
 
----
+<br>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -76,11 +76,7 @@
 
 <br>
 
-
-
----
-
-### 📊 GitHub in numbers
+## 📊 GitHub in numbers
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dannyo6&theme=tokyonight" width="100%" alt="Profile Details" />
@@ -98,9 +94,7 @@
 
 <br>
 
----
-
-### 🐍 Watch the snake eat my contributions
+## 🐍 Watch the snake eat my contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dannyo6/Dannyo6/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Grid" />
@@ -108,9 +102,7 @@
 
 <br>
 
----
-
-### 🤝 Connect
+## 🤝 Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/dhanush-v-49b404330">
@@ -125,5 +117,6 @@
 </p>
 
 <br>
+<br>
 
-<h3 align="center">Featured Systems Architecture ⬇️</h3>
+<h3 align="center">My Repos ⬇️</h3>
