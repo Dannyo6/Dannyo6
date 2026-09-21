@@ -100,20 +100,14 @@
   <img src="https://raw.githubusercontent.com/Dannyo6/Dannyo6/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Grid" />
 </p>
 
-<br>
+
 
 ## 🤝 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/dhanush-v-49b404330">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="mailto:dhanushvk611@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a> &nbsp;
-  <a href="https://github.com/Dannyo6">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://linkedin.com/in/dhanush-v-49b404330"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:dhanushvk611@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/Dannyo6"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <br>
