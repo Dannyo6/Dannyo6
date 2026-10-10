@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dannyo6&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Dannyo6 views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDannyo6&count_bg=%230E75B6&title_bg=%23555555&title=Profile+Views&edge_flat=true" alt="Dannyo6 views" />
 </p>
 
 
