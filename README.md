@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/combined?path=Dannyo6&label=Profile%20Views&labelColor=%232d3748&countColor=%230e75b6&style=flat" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?pageId=Dannyo6&label=PROFILE%20VIEWS&labelColor=%232d3748&countColor=%230e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### <img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="16" align="absmiddle"> `Dannyo6 ~ ❯ whoami`
