@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?pageId=Dannyo6&label=PROFILE%20VIEWS&labelColor=%232d3748&countColor=%230e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dannyo6&label=Profile%20Views&color=0e75b6&style=flat&v=20261016" alt="Profile Views" />
 </p>
 
 
